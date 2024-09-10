@@ -6,7 +6,7 @@ ReactDom.render(
     <h1>My Favourite Foods</h1>
     <ul>
       <li>Bacon</li>
-      <li>Jamon</li>
+      <li>Pasta</li>
       <li>Noodles</li>
     </ul>
   </div>,
